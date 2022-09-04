@@ -1,0 +1,3 @@
+rootProject.name = 'Middle_mentoring'
+include 'messenger'
+
